@@ -16,7 +16,7 @@ console.log(escola.indexOf('r'))
 console.log(escola.substring(1))
 console.log(escola.substring(0, 3))
 
-// concatenando váriaveis com strings
+// concatenando váriaveis com strings dá pra usar o (+) com strings
 console.log('Escola '.concat(escola).concat("1"))
 
 // substituir todas palavras
